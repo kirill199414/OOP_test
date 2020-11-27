@@ -11,7 +11,7 @@ import java.util.List;
  * 6. Load(file); // JSON file
  *
  * @author boaz.benmoshe
- *
+ */    //egor lox
  */
 public interface dw_graph_algorithms {
     /**
